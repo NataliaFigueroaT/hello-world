@@ -4,7 +4,7 @@
   </div>
 
   <div class="container">
-    <label for="uname"><b>Insertar nombre Natalia Figueroa Tabares</b></label>
+    <label for="uname"><b>Insertar nombre Nata Figueroa Tabares</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
     <label for="psw"><b>Password</b></label>
